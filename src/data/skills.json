@@ -1,0 +1,39 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/Flutter.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/Unity.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c-.png"
+  }
+
+]

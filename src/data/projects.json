@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project NFCC",
+    "imageSrc": "projects/ia.png",
+    "description": "Réalisé en stage, ce projet consiste en l'implémentation des caractéristiques humaines dans un chatbot de type ChatGPT",
+    "skills": ["React", "C# (.Net)", "PromptFlow","Azure"],
+    "source": "https://github.com/micbelgique/NFCC"
+  },
+  {
+    "title": "Project SmartShade",
+    "imageSrc": "projects/SmartShade.png",
+    "description": "L'objectif est d'aider les gens à contrôler leurs volets à distance et d'automatiser des tâches en fonction de leur donnée",
+    "skills": ["Flutter","PlatformIO", "Arduino"],
+    "source": "https://github.com/Hellisse/SmartShade"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://www.github.com"
+  }
+]

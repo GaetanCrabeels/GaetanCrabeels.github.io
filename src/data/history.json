@@ -1,0 +1,30 @@
+[
+  {
+    "role": "SmartShade",
+    "organisation": "vos volets intelligents",
+
+    "startDate": "Septembre 2023",
+    "endDate": "Janvier 2024",
+    "experiences": ["Mise en place de l'éléctronique", "Réception des données capteurs","Liaison entre les capteurs et le Back-end Flutter"],
+    "imageSrc": "history/SmartShade.png"
+  },
+  {
+    "role": "Tower Defense",
+    "organisation": "réalisé en Python",
+    "startDate": "Mars 2022",
+    "endDate": "Juin 2022",
+    "experiences": ["Réalisation d'un Tower Defense", "avec un système de difficultés","Différents types d'ennemies",
+  "Caractéristiques augmentables"],
+    "imageSrc": "history/chateau.png"
+  },
+  {
+    "role": "Logiciel de traitement de document excel",
+    "organisation": "",
+    "startDate": "Juin 2023",
+    "endDate": "Juillet, 2023",
+    "experiences": [
+      "Réalisé lors d'un job étudiant afin d'automatiser le classement via un programme Python"
+    ],
+    "imageSrc": "history/support-informatique.png"
+  }
+]
