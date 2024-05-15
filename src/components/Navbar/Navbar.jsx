@@ -2,10 +2,17 @@ import React, { useState } from "react";
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
+import Summary from "../Summary/Summary"; 
+
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [showSummary, setShowSummary] = useState(false);
 
+  const showSummaryComponent = (event) => {
+    event.preventDefault(); // Empêcher le comportement de lien par défaut
+    setShowSummary(true);
+  };
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">

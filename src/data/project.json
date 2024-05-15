@@ -1,0 +1,67 @@
+[
+    { 
+      "title": "Hackaton: Tech goes Wild",
+      "startDate": "22/03/2023",
+      "endDate": "24/03/2023",
+      "estimatedHours": 40,
+      "actualHours": 10,
+      "certificateUrl": "lien_vers_le_certificat"
+
+    },
+    { 
+      "title": "Conférence sur l'économie circulaire",
+      "startDate": "07/09/2023",
+      "endDate": "08/09/2023",
+      "estimatedHours": 18,
+      "actualHours": 10,
+      "certificateUrl": "lien_vers_le_certificat"
+
+    },
+    { 
+      "title": "Projet personnel: Python Tower Defense",
+      "startDate": "01/09/2021",
+      "endDate": "30/06/2022",
+      "estimatedHours": 60,
+      "actualHours": 10,
+      "certificateUrl": "lien_vers_le_certificat"
+
+    },
+    { 
+    "title": "Job étudiant: Automatisation avec Python",
+    "startDate": "01/07/2023",
+    "endDate": "15/07/2023",
+    "estimatedHours": 80,
+    "actualHours": 10,
+    "certificateUrl": "lien_vers_le_certificat"
+
+    },
+    { 
+    "title": "Activité au Patro: Organisation des repas",
+    "startDate": "01/05/2023",
+    "endDate": "01/05/2023",
+    "estimatedHours": "6(x3)", 
+    "actualHours": 10,
+    "certificateUrl": "lien_vers_le_certificat"
+
+    },
+    { 
+    "title": "Projet personnel en électronique et bricolage",
+    "startDate": "01/05/2023",
+    "endDate": "01/05/2023",
+    "estimatedHours": 100, 
+    "actualHours": 10,    
+    "certificateUrl": "lien_vers_le_certificat"
+
+
+    },
+    {
+        "title": "Formation en ligne: Découvrir le Web",
+        "startDate": "01/05/2023",
+        "endDate": "01/05/2023",
+        "estimatedHours": 10, 
+        "actualHours": 6,
+        "certificateUrl": "https://drive.google.com/file/d/1UNBH0NA_6vDBILioBfaC2z6jMQtXoqv3/view?usp=drive_link"
+
+    }
+  ]
+  

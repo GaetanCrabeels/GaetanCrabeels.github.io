@@ -18,8 +18,8 @@
     "imageSrc": "history/chateau.png"
   },
   {
-    "role": "Logiciel de traitement de document excel",
-    "organisation": "",
+    "role": "Traitement Excel",
+    "organisation": "via des logiciels Python",
     "startDate": "Juin 2023",
     "endDate": "Juillet, 2023",
     "experiences": [

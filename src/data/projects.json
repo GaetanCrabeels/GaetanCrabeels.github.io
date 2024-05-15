@@ -1,6 +1,6 @@
 [
   {
-    "title": "Project NFCC",
+    "title": "Project NFCC (Lila)",
     "imageSrc": "projects/ia.png",
     "description": "Réalisé en stage, ce projet consiste en l'implémentation des caractéristiques humaines dans un chatbot de type ChatGPT",
     "skills": ["React", "C# (.Net)", "PromptFlow","Azure"],
@@ -14,10 +14,10 @@
     "source": "https://github.com/Hellisse/SmartShade"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "source": "https://www.github.com"
+    "title": "Mes autres projets",
+    "imageSrc": "projects/GITHUB.jpg",
+    "description": "N'hésitez pas à cliquer sur le lien ci-dessous regarder mes autres projets sur Github pour en savoir plus",
+    "skills": ["Front/Back","Réseau","Web","Mobile"],
+    "source": "https://github.com/Hellisse"
   }
 ]

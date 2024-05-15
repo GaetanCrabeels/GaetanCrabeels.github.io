@@ -4,7 +4,7 @@ import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, source },
 }) => {
   return (
     <div className={styles.container}>
@@ -12,6 +12,7 @@ export const ProjectCard = ({
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
         className={styles.image}
+        style={imageSrc === "projects/ia.png"? { borderRadius: '0%' } :  {borderRadius: '100%'}}
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
@@ -26,7 +27,7 @@ export const ProjectCard = ({
       </ul>
       <div className={styles.links}>
         <a href={source} className={styles.link}>
-          Source
+          {title}
         </a>
       </div>
     </div>

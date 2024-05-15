@@ -1,0 +1,86 @@
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+}
+
+
+/* Styles for Summary component */
+.container {
+  font-family: var(--font-roboto);
+  text-align: center;
+}
+
+.summaryContainer {
+  background-color: var(--color-secondary);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  opacity: 0; 
+  transition: opacity 0.5s ease-in-out; /* Ajout de la transition pour l'opacité */
+}
+
+.visible {
+  opacity: 1; /* Lorsque la classe "visible" est appliquée, le tableau devient visible */
+  max-width: 80%;
+  margin: auto;
+}
+
+
+.invisible {
+  display: none;
+  overflow: hidden;
+  opacity: 0%;
+
+}
+
+
+.summaryContent {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid var(--color-primary);
+}
+
+th {
+  background-color: var(--color-dark);
+}
+
+.closeButton {
+  margin-top: 5%;
+  margin-bottom: 2%;
+  font-size: 20px;
+
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease; /* Ajout de la transition pour l'animation */
+}
+
+.closeButton.rotate {
+  transform: rotate(90deg); /* Rotation de 90 degrés lorsque la classe rotate est ajoutée */
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
